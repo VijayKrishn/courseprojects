@@ -3,7 +3,7 @@ As per my knowledge SCTP protocol is only working on unix machines.
 Time Complexity of the algorithm is O(diameter of the graph) which is the distance between the farthest nodes.
 
 For running the program (Required JRE 1.7 or greater and SCTP active on the machine)
---------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 Place the NodeDiscovery.jar and config.txt at the same directory level and run the jar.
 You need to edit config.txt as below.
 
