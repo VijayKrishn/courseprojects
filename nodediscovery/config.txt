@@ -1,0 +1,29 @@
+#
+# Configuration file for CS6378 Project 1
+# 
+#
+# As per the "shell" convention, anything following a hash sign is
+# a comment and should be ignored by the parser.
+
+# Number of nodes
+5
+
+# First we specify the initial knowledge graph
+#
+# Format is:
+# Node		Initial Knowledge 
+0		{2, 4}
+1		{4, 0}
+2 		{0}
+3		{2}
+4 		{3, 1}
+
+# Next we list the location of each node
+#
+# Format is:
+# Identifier	Hostname	Port	
+0	dc01		7462
+1	dc33		7465
+2	dc21		7321
+3	dc33		7432
+4	dc22		8765
