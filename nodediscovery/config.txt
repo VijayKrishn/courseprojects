@@ -1,5 +1,4 @@
 #
-# Configuration file for CS6378 Project 1
 # 
 #
 # As per the "shell" convention, anything following a hash sign is
